@@ -1,0 +1,30 @@
+.newsfeed {
+  flex: 0.7;
+  color: white;
+}
+
+.date_picker {
+  margin-top: 10%;
+}
+
+.news__portflio {
+  text-align: left;
+}
+
+.news__portflio h1 {
+  margin: 0;
+}
+
+.news__portflio p {
+  margin-top: 0;
+}
+
+.newsfeed__chartSection {
+  display: flex;
+  flex-direction: column;
+  margin-top: 35%;
+}
+
+.date_picker_container {
+  padding: 10px;
+}

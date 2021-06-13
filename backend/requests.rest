@@ -1,0 +1,2 @@
+GET  http://localhost:3001/bitcoin-price/2018-12-10
+Content-Type: application/json
